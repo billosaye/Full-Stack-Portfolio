@@ -1,4 +1,4 @@
-# BillyOsaye-Portfolio
+# BillyOsaye-FullStack Portfolio
 
 This repository contains the source code for my personal portfolio website, built with Node.js and Express. The site showcases my skills, projects, and professional background as a Full Stack Developer specializing in the MERN stack. It features a dynamic and responsive design, highlighting my expertise in web development and digital marketing strategies.
 
