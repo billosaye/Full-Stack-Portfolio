@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourGitHubUsername/BillyOsaye-Portfolio.git
+    git clone https://github.com/billosaye/Full-Stack-Portfolio
     ```
 2. Navigate to the project directory:
     ```bash
